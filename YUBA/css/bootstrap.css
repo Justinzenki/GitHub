@@ -6060,7 +6060,7 @@ button.close {
   bottom: 0;
   margin-bottom: -5px;
   border-width: 5px 5px 0;
-  border-top-color: #000;
+  border-top-color: 000;
 }
 .tooltip.top-right .tooltip-arrow {
   bottom: 0;
